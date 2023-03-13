@@ -48,7 +48,7 @@
 
 }
 
-.todo-list-item-delete:hover {
+.todo-list-item-delete:hover, .todo-list-item-edit:hover {
   background: rgb(172, 172, 172);
 }
 
