@@ -17,6 +17,11 @@
 .todo-list-content {
   display: flex;
   justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #fff;
+  border: 1px solid #AAA2A2;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 
 .no-todos {

@@ -1,0 +1,29 @@
+.container-todo-form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.input-task-form-todo{
+    width:220px;
+    height: 40px;
+    border-radius: 8px;
+    margin:10px;
+    border: 1px solid #AAA2A2;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.input-task-form-todo:focus{
+    border: 1px solid black;
+}
+.button-form-todo{
+    cursor: pointer;
+    height: 40px;
+    font-weight: bold;
+    color:white;
+    background-color: #458ef7;
+    border-radius: 8px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border:none;
+}
+.button-form-todo:hover{
+    background-color: #3672cb;
+}
